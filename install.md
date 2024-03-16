@@ -47,6 +47,9 @@ PS C:\Users\simon\github\godot> python -m SCons dev_build=true
 As scons is used for building starting debugger takes extra 15 seconds.
 Something smoother is needed.
 
+May be related to virus protection related checks - 
+https://stackoverflow.com/questions/50030787/scons-super-slow-startup-in-windows
+
 # Assets
 As default installs to onedrive which may or may not be wanted
 
