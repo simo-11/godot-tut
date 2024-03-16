@@ -2,7 +2,7 @@
 
 https://docs.godotengine.org/en/latest/contributing/development/compiling/compiling_for_windows.html
 
-## [scons|https://scons.org/]
+## [scons](https://scons.org/)
 pyenv is used
 
 scons installation
