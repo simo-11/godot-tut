@@ -1,2 +1,2 @@
 # godot-tut
-Getting familiar wtih godot
+Getting familiar with godot
