@@ -13,6 +13,7 @@ PS C:\Users\simon\github\godot> where.exe scons
 C:\Users\simon\.pyenv\pyenv-win\shims\scons
 C:\Users\simon\.pyenv\pyenv-win\shims\scons.bat
 ```
+C:\Users\simon\.pyenv\pyenv-win\versions\3.11.8\Scripts\scons.exe
 
 Build exe
 ```
