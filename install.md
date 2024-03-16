@@ -9,6 +9,9 @@ scons installation
 ```
 PS C:\Users\simon\github\godot> python -m pip install scons
 Requirement already satisfied: setuptools in c:\users\simon\.pyenv\pyenv-win\versions\3.11.8\lib\site-packages
+PS C:\Users\simon\github\godot> where.exe scons
+C:\Users\simon\.pyenv\pyenv-win\shims\scons
+C:\Users\simon\.pyenv\pyenv-win\shims\scons.bat
 ```
 
 Build exe
