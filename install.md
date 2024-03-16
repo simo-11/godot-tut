@@ -42,3 +42,7 @@ PS C:\Users\simon\github\godot> python -m SCons dev_build=true
 [100%] scons: done building targets.
 [Time elapsed: 00:11:11.468]
 ```
+
+# development does not look noce
+As scons is used for building starting debugger takes extra 15 seconds.
+Something smoother is needed.
