@@ -43,6 +43,10 @@ PS C:\Users\simon\github\godot> python -m SCons dev_build=true
 [Time elapsed: 00:11:11.468]
 ```
 
-# development does not look noce
+# development does not look nice
 As scons is used for building starting debugger takes extra 15 seconds.
 Something smoother is needed.
+
+# Assets
+As default installs to onedrive which may or may not be wanted
+
